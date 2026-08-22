@@ -57,19 +57,3 @@
 - 🌐 Learning more about **WebGL** and **system-level programming**
 
 ---
-
-## 📫 **Connect With Me**
-
-<div align="center">
-  <a href="https://github.com/BombedByXander">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@BombedByXander">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/bombedbyxander/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
