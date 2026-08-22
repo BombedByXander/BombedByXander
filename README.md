@@ -1,12 +1,7 @@
 <h1 align="center">BombedByXander</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=500&color=F70000&center=true&vCenter=true&random=false&width=600&height=60&lines=15+y.o.+SOFTWARE+DEVELOPER;MODDER+%26+WEB+DESIGNER;I+MAKE+THINGS+INTERESTING;🔥+LET'S+GO+🔥" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/AGE-15%20Years%20Old-yellow?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-☢️%20CODING-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## 🚀 **About Me**
@@ -40,20 +35,10 @@
 | 🎯 | Activity |
 |----|----------|
 | 🧩 **Game Modding** | I make games more interesting and comical |
-| 🌐 **Web Design** | Building websites that hit different |
+| 🌐 **Web Design** | Building websites left to right |
 | 📱 **App Development** | Android, iOS, and everything in between |
-| 🔥 **System Testing** | Pushing devices to their absolute limit |
+| 🔥 **System Testing** | Pushing devices to their absolute limit (gpucrasher) |
 
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BombedByXander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BombedByXander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
 
 ## 🐍 **Snake Eating My Contributions**
 
