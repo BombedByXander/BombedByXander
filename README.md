@@ -73,11 +73,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BombedByXander&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2000&pause=500&color=F70000&center=true&vCenter=true&random=false&width=500&height=30&lines=🔥+KEEP+BUILDING+🔥;☢️+UNSTOPPABLE+☢️;💀+NEVER+STOP+💀" alt="Typing SVG" />
-</p>
