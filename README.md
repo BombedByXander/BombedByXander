@@ -7,17 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AGE-15%20Years%20Old-yellow?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-☢️%20CODING-red?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MADE%20WITH-CHILDISH%20GENIUS-purple?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/VIBES-UNSTOPPABLE-orange?style=for-the-badge&logo=dev.to&logoColor=white" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV5dTdpZnJrM3hmcnQ4dW5hNnQ5djR2MHNkb3pkdWZiajVwYmZrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
-</p>
-
----
 
 ## 🚀 **About Me**
 
