@@ -1,9 +1,5 @@
 <h1 align="center">BombedByXander</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AGE-15%20Years%20Old-yellow?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 ## 🚀 **About Me**
 
 <h2 align="center">🌐 15 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br>🌀 I typically mod games to make them more interesting and comical. 🩸</h2>
