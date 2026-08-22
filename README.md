@@ -1,4 +1,3 @@
-<h1 align="center">BombedByXander</h1>
 
 ## 🚀 **About Me**
 
