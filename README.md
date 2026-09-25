@@ -1,7 +1,7 @@
 
 ## 🚀 **About Me**
 
-<h2 align="center">🌐 15 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br>Best UBG site creator - Xander's Arcade 700+ Unblocked Games w/ proxy, along with modding games to make them more comical</h2>
+<h2 align="center">🌐 15 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br> ⛔ Best UBG site creator - Xander's Arcade 700+ Unblocked Games w/ proxy.</h2>
 
 ### 🛠️ **Tech Arsenal**
 
