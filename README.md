@@ -1,32 +1,24 @@
+# xander
 
-## 🚀 **About Me**
+<img width="736" height="244" alt="390616967697085900" src="https://cdn.pfps.gg/banners/34808-494692-gothicbanner.gif" />
 
-<h2 align="center">🌐 15 y/o 🌐<br>🧑‍💻 Software Developer & Web Designer 🔟<br> ⛔ Best UBG site creator - Xander's Arcade 700+ Unblocked Games w/ proxy.</h2>
+yo i'm xander
 
-### 🛠️ **Tech Arsenal**
+developer & programmer
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="lua" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift" />
-</div>
+founder @ [xandersarcade]("https://xanderlol.vercel.app/")
 
----
+## me ♥️
 
-## ⛔ **Xander's Arcade - Links**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,cs,java,wasm,js,html,css,ts,debian" height="48" />
+  <img src="./gnu-tile.svg" width="48" height="48" alt="gnu" />
+</p>
 
-- https://xcarcade.vercel.app
-- https://xandersarcade-td2v.onrender.com/
----
+## what i do
+
+work on shit (lmao), mainly random c++ and c# programs + games, and sites, very useful ones...
+
+## activity
+
+![larp](https://github-readme-streak-stats-eight.vercel.app?user=BombedByXander&theme=dark&hide_border=true&background=0D1117)
