@@ -1,6 +1,6 @@
 # xander
 
-<img width="736" height="244" alt="390616967697085900" src="https://cdn.pfps.gg/banners/34808-494692-gothicbanner.gif" />
+<img width="736" height="244" alt="390616967697085900" src="https://i.pinimg.com/736x/ab/86/3b/ab863b2d1692ba8f2c2ab2021417e8d3.jpg" />
 
 yo i'm xander
 
