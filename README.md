@@ -6,7 +6,7 @@ yo i'm xander
 
 developer & programmer
 
-founder @ [xandersarcade]("https://xanderlol.vercel.app/")
+founder @ [vaulted]("https://cdn.jsdelivr.net/gh/BombedByXander/svg@main/b/index.svg")
 
 ## me ♥️
 
