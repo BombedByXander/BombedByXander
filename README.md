@@ -6,7 +6,7 @@ yo i'm xander
 
 developer & programmer
 
-founder @ [vaulted]("https://cdn.jsdelivr.net/gh/BombedByXander/svg@main/b/index.svg")
+founder @ [vaulted](https://vaultedd.pages.dev)
 
 ## me ♥️
 
