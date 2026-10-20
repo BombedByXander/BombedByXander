@@ -1,6 +1,6 @@
 # xander
 
-<img width="736" height="244" alt="390616967697085900" src="https://i.pinimg.com/736x/ab/86/3b/ab863b2d1692ba8f2c2ab2021417e8d3.jpg" />
+<img width="736" height="244" alt="390616967697085900" src="https://i.pinimg.com/736x/e5/a1/9d/e5a19d01a45deeb121f75fec5d20985b.jpg" />
 
 yo i'm xander
 
