@@ -1,6 +1,6 @@
 # xander
 
-<img width="724" height="407" alt="390616967697085900" src="https://i.pinimg.com/736x/e5/a1/9d/e5a19d01a45deeb121f75fec5d20985b.jpg" />
+<img width="724" height="407" alt="390616967697085900" src="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmFmM2IwMGM2YWNjODE5MWIxNmY1ZmMzZjhhMGJlMjg6ZmlsZV8wMDAwMDAwMDY3ODA4MWY1OGI2ZGI0OWMzYTljYTM0NyIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzY4IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiJjYjdiMTAwOGIwY2NlODQ5MmJlYjE1NTA2ODg3ZTNlNDVlNzRlYzBmNjZjZGY3MzE5M2FjNmRhZTEwYjBjZGVkIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=" />
 
 yo i'm xander
 
